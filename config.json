@@ -6,6 +6,15 @@
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com"
     },
+    {
+  "cache_time": 7200,
+  "api_site": {
+    "dyttzy": {
+      "api": "http://api.ffzyapi.com/api.php/provide/vod/",
+      "name": "非凡综合资源",
+      "detail": "http://ffzy5.tv/help/"
+    },
+    
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
